@@ -1,0 +1,3 @@
+### How To Convince Your Boss a Rewrite is Necessary
+
+> Rewriting a working web app...are you crazy!?! It’s time consuming, expensive, super risky...to name a few obstacles. So why in the world would you even think about a rewrite? In this session, we'll talk about the pot of gold at the end of the rewrite rainbow (or lack thereof) in the context of web applications. Developers are always looking for ways to leverage the latest and greatest, and your boss needs to know how this can benefit the bottom line. Let’s get into the details, weigh the pros and cons, and discuss several approaches that might make it possible.
